@@ -1,4 +1,6 @@
 //Linked list
+//now this is ru branch
+
 #include<bits/stdc++.h>
 using namespace std;
 
